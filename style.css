@@ -1,5 +1,4 @@
 body{
-
     background-size: cover;
     margin: 0;
     display: flex;
@@ -8,6 +7,8 @@ body{
     min-height: 100vh;
     justify-content: space-around;
 }
+
+body>div{display: flex;}
 
 .choice{
     width: 150px;
